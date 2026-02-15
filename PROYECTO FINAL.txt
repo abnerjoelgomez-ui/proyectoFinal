@@ -1,0 +1,20 @@
+PROYECTO FINAL
+
+Punto número 1
+
+  El problema detectado es que únicamente se trabajan 50 cotizaciones diarias y       se requiere agilizar el proceso.
+  Para ello se creará un sistema informático que ayude en la automatización de    toma de datos y cálculos para dichos documentos.
+  Los casos que se consideran para cambiar la cotización son: según rango de edades y estado civil y si tienen hijos.
+
+ Punto número 2
+  Algoritmo:
+1. Se le pregunta al posible asegurado su nombre.
+2. Se le pregunta al posible asegurado su edad.
+3. Si su edad está abajo de los 18 años termina la entrevista.
+3. Se le pregunta al posible asegurado su estado civil.
+4. Se le pregunta al posible asegurado si tiene hijos.
+5. Si su edad está entre 18 a 24 años de edad se carga el 10% sobre 2,000.
+6. Si su edad está entre 25 a 49 años de edad se carga el 20% sobre 2,000.
+8. Si su edad es de 50 años en adelante se carga el 30% sobre 2,000.
+9. Si es casado se toma en cuenta los pasos 6, 7, 8 para el recargo del cónyuge.
+10. Si tiene hijos se le carga el 20% por hijo sobre 2,000.
